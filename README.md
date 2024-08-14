@@ -1,16 +1,18 @@
-## Hi there 👋
+## Oie, eu sou a Katheyn Quintero 👋
 
-<!--
-**KatheynQuintero/Katheynquintero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hoje sou socia e gestora de uma empresa de locação de notebooks e computadores 🖥️
+- Estudando Ingles e Developer Full Stack 🤓
+- Pronouns: ela/dela 💅
 
-Here are some ideas to get you started:
+<div>
+<a sherf="https://github.com/KatheynQuintero">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KatheynQuintero&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/_>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatheynQuintero&layout=compact&langs_count=16&theme=transparent"/_>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="https://www.instagram.com/katheyncarrero?igsh=MWJveno1bWZpdHB2Ng%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/katheyn-jelisbeth-carrero-quintero-ba3930181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
