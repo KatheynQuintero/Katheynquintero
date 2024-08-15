@@ -1,8 +1,9 @@
 ## Oie, eu sou a Katheyn Quintero 👋
 
-- Hoje sou socia e gestora de uma empresa de locação de notebooks e computadores 🖥️
+- Atualmente trabalho em uma Empresa de locação de notebooks e computadores 🖥️
 - Estudando Ingles e Developer Full Stack 🤓
 - Pronouns: ela/dela 💅
+- Estou aprendendo tudo sobre este mundo totalmento novo e cheio de desafios. 📘
 
 <div>
 <a sherf="https://github.com/KatheynQuintero">
